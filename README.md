@@ -2,8 +2,8 @@
 ## Description
 This is my first React Native application created for CPAN 213 course.
 ## Student Information
-- Name: [Your Name]
-- Student ID: [Your ID]
+- Name: Phuong Tram Pham
+- Student ID: N01724490
 - Course: CPAN 213 - Cross-Platform Mobile Application Development
 - Date: September 2, 2025
 ## Getting Started
@@ -16,7 +16,7 @@ This is my first React Native application created for CPAN 213 course.
 - Course goals section
 - Custom styling with StyleSheet
 ## Development Environment
-- Node.js: [version]
-- React Native: [version]
+- Node.js: 11.6.0
+- React Native: 0.81.1
 - Android Studio: [version]
 - VS Code: [version]
