@@ -99,6 +99,7 @@ icon: {
     height: 80,
     marginBottom: 10,
     borderRadius: 40,
+    
 },
 });
 export default App;
