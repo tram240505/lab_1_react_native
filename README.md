@@ -26,7 +26,7 @@ This is my first React Native application created for CPAN 213 course.
 
 ## Development Environment
 
-- Node.js: 11.6.0
+- Node.js: v20.17.0
 - React Native: 0.81.1
-- Android Studio: 21.0.7
+- Android Studio: 21.0.7+-13880790-b1038.58 amd64
 - VS Code: 1.103.2
